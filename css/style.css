@@ -1,0 +1,60 @@
+.lang-icons {
+  height: 50px;
+}
+
+#about {
+  background-color: #337ab7;
+}
+
+#page-top > header > div > div > a {
+  background-color: #337ab7;
+}
+
+.portfolio-box .portfolio-box-caption {
+  background: #337ab7;
+}
+
+.code-views {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.code-links {
+  font-size: 16px;
+}
+
+.project-description {
+  margin-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.project-description > p {
+  font-size: 15px;
+}
+
+.text-muted {
+  font-size: 15px;
+}
+
+.center-content {
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+.contact-body {
+  padding-bottom: 50px;
+}
+
+#page-top > header > div > div > p {
+  color: #1b486d;
+}
+
+#homeHeading {
+  font-family: 'Rajdhani', serif;
+}
+
+body {
+  font-family: 'Cairo', sans-serif;
+}
